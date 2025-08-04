@@ -1,0 +1,210 @@
+2025-08-04 20:43:19 [main] INFO  dao.MarketDAOImplementation - Executing Totalsales query
+2025-08-04 20:43:19 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 20:43:19 [main] DEBUG dao.MarketDAOImplementation - Product: Electronic accessories, Total Sales: 54337.64
+2025-08-04 20:43:19 [main] DEBUG dao.MarketDAOImplementation - Product: Fashion accessories, Total Sales: 54306.03
+2025-08-04 20:43:19 [main] DEBUG dao.MarketDAOImplementation - Product: Food and beverages, Total Sales: 56144.96
+2025-08-04 20:43:19 [main] DEBUG dao.MarketDAOImplementation - Product: Health and beauty, Total Sales: 49193.84
+2025-08-04 20:43:19 [main] DEBUG dao.MarketDAOImplementation - Product: Home and lifestyle, Total Sales: 53861.96
+2025-08-04 20:43:19 [main] DEBUG dao.MarketDAOImplementation - Product: Sports and travel, Total Sales: 55123.0
+2025-08-04 20:44:10 [main] INFO  dao.MarketDAOImplementation - Executing Totalsales query
+2025-08-04 20:44:10 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 20:45:14 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 20:45:14 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 20:48:06 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 20:48:06 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:18:10 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 21:18:10 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:38 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 21:52:38 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:42 [main] INFO  dao.MarketDAOImplementation - executing gross income
+2025-08-04 21:52:42 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - executing average product rating
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:52:45 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:54:10 [main] INFO  dao.MarketDAOImplementation - executing average product rating
+2025-08-04 21:54:10 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:56:48 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 21:56:48 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:56:52 [main] INFO  dao.MarketDAOImplementation - executing gross income
+2025-08-04 21:56:52 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:56:57 [main] INFO  dao.MarketDAOImplementation - executing average product rating
+2025-08-04 21:56:57 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - calculating daily sales
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:51 [main] INFO  dao.MarketDAOImplementation - calculating daily sales
+2025-08-04 21:57:51 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:54 [main] INFO  dao.MarketDAOImplementation - calculating weekly sales
+2025-08-04 21:57:54 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:57:57 [main] INFO  dao.MarketDAOImplementation - executing monthly sales
+2025-08-04 21:57:57 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:00 [main] INFO  dao.MarketDAOImplementation - executing quarterly sales
+2025-08-04 21:58:00 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:03 [main] INFO  dao.MarketDAOImplementation - executing yearly sales
+2025-08-04 21:58:03 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:07 [main] INFO  dao.MarketDAOImplementation - executing sales by branch
+2025-08-04 21:58:07 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:09 [main] INFO  dao.MarketDAOImplementation - executing sales by city
+2025-08-04 21:58:09 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:12 [main] INFO  dao.MarketDAOImplementation - executing sales by productline
+2025-08-04 21:58:12 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:17 [main] INFO  dao.MarketDAOImplementation - executing sales by customer type
+2025-08-04 21:58:17 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:19 [main] INFO  dao.MarketDAOImplementation - executing sales by gender
+2025-08-04 21:58:19 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:23 [main] INFO  dao.MarketDAOImplementation - executing count of payment methods
+2025-08-04 21:58:23 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:26 [main] INFO  dao.MarketDAOImplementation - executing sales profit by product line
+2025-08-04 21:58:26 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:31 [main] INFO  dao.MarketDAOImplementation - executing impact of discounts on sales and profit
+2025-08-04 21:58:31 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:36 [main] INFO  dao.MarketDAOImplementation - executing sales by hour
+2025-08-04 21:58:36 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 21:58:39 [main] INFO  dao.MarketDAOImplementation - executing sales by day
+2025-08-04 21:58:39 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:03:03 [main] ERROR dao.MarketDAOImplementation - error while calculating total sales
+java.sql.SQLSyntaxErrorException: Table 'supermarket.salesss' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:972)
+	at dao.MarketDAOImplementation.Totalsales(MarketDAOImplementation.java:25)
+	at service.MarketService.viewTotalSales(MarketService.java:16)
+	at main.MarketMain.main(MarketMain.java:42)
+2025-08-04 22:03:57 [main] ERROR dao.MarketDAOImplementation - error while calculating total sales
+2025-08-04 22:09:20 [main] ERROR dao.MarketDAOImplementation - error while calculating sales by day
+java.sql.SQLSyntaxErrorException: Table 'supermarket.timedimensionn' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:972)
+	at dao.MarketDAOImplementation.ByDayOfTheWeek(MarketDAOImplementation.java:379)
+	at service.MarketService.viewByDay(MarketService.java:84)
+	at main.MarketMain.main(MarketMain.java:142)
+2025-08-04 22:10:43 [main] INFO  dao.MarketDAOImplementation - executing total sales
+2025-08-04 22:10:43 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:10:46 [main] INFO  dao.MarketDAOImplementation - executing gross income
+2025-08-04 22:10:46 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:10:50 [main] INFO  dao.MarketDAOImplementation - executing average product rating
+2025-08-04 22:10:50 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:10:53 [main] INFO  dao.MarketDAOImplementation - calculating daily sales
+2025-08-04 22:10:53 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:10:55 [main] INFO  dao.MarketDAOImplementation - calculating weekly sales
+2025-08-04 22:10:55 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:10:59 [main] INFO  dao.MarketDAOImplementation - executing monthly sales
+2025-08-04 22:10:59 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:02 [main] INFO  dao.MarketDAOImplementation - executing quarterly sales
+2025-08-04 22:11:02 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:04 [main] INFO  dao.MarketDAOImplementation - executing yearly sales
+2025-08-04 22:11:04 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:09 [main] INFO  dao.MarketDAOImplementation - executing sales by branch
+2025-08-04 22:11:09 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:12 [main] INFO  dao.MarketDAOImplementation - executing sales by city
+2025-08-04 22:11:12 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:14 [main] INFO  dao.MarketDAOImplementation - executing sales by productline
+2025-08-04 22:11:14 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:19 [main] INFO  dao.MarketDAOImplementation - executing sales by customer type
+2025-08-04 22:11:19 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:21 [main] INFO  dao.MarketDAOImplementation - executing sales by gender
+2025-08-04 22:11:21 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:24 [main] INFO  dao.MarketDAOImplementation - executing count of payment methods
+2025-08-04 22:11:24 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:27 [main] INFO  dao.MarketDAOImplementation - executing sales profit by product line
+2025-08-04 22:11:27 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:29 [main] INFO  dao.MarketDAOImplementation - executing impact of discounts on sales and profit
+2025-08-04 22:11:29 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:33 [main] INFO  dao.MarketDAOImplementation - executing sales by hour
+2025-08-04 22:11:33 [main] INFO  dao.MarketDAOImplementation - execution completed
+2025-08-04 22:11:36 [main] INFO  dao.MarketDAOImplementation - executing sales by day
+2025-08-04 22:11:36 [main] INFO  dao.MarketDAOImplementation - execution completed
